@@ -1,4 +1,4 @@
-# Fase 2 — Priorización predictiva de mantenimiento | Grupo Bimbo
+# Fase 2 — Priorización predictiva de mantenimiento | Grupo Bimbo (_proyecto dummy educativo_)
 
 * Nombre: Tomás Olivares
 * Nombre del curso: Gestión de proyectos de inteligencia artificial
