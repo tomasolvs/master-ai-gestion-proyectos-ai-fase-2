@@ -11,7 +11,10 @@ Prototipo académico de una capa de IA para priorizar señales de riesgo de fall
 
 > La actividad "Fase 1" definió el business case, pero no entregó un modelo entrenado, dataset ni API. Este repositorio implementa un prototipo demostrativo nuevo con datos sintéticos reproducibles. No utiliza datos internos de Grupo Bimbo.
 
-[🔗 Validación y pruebas + Manual de despliegue en nube](https://github.com/tomasolvs/master-ai-gestion-proyectos-ai-fase-2/blob/main/docs/081126%20TODDL%20Fase%202%20M%C3%B3dulo%202%20Gesti%C3%B3n%20de%20proyectos%20de%20inteligencia%20artificial.pdf)
+## 🔗 Links relevantes
+* [Validación y pruebas + Manual de despliegue en nube](https://github.com/tomasolvs/master-ai-gestion-proyectos-ai-fase-2/blob/main/docs/081126%20TODDL%20Fase%202%20M%C3%B3dulo%202%20Gesti%C3%B3n%20de%20proyectos%20de%20inteligencia%20artificial.pdf)
+* [Evidencia de Notebook ejecutado](https://github.com/tomasolvs/master-ai-gestion-proyectos-ai-fase-2/tree/main/evidence/notebook)
+* [Evidencia de build y ejecución de Docker](https://github.com/tomasolvs/master-ai-gestion-proyectos-ai-fase-2/tree/main/evidence/docker)
 
 ## Arquitectura
 
@@ -21,7 +24,7 @@ Navegador (frontend HTML/JS) → API FastAPI (`POST /predict`) → pipeline Scik
 
 - Python 3.11 o Docker Desktop / Docker Engine.
 - 2 GB RAM recomendados para entrenamiento inicial.
-- Puerto local 8000 (o alternativamente el 8080) disponible.
+- Puerto local 8080  disponible. (Alternativamente, se ha probado con el 8000 desde Colab, no localmente)
 
 ## Ejecución local sin Docker
 
