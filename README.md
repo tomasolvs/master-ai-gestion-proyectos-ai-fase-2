@@ -21,7 +21,7 @@ Navegador (frontend HTML/JS) → API FastAPI (`POST /predict`) → pipeline Scik
 
 - Python 3.11 o Docker Desktop / Docker Engine.
 - 2 GB RAM recomendados para entrenamiento inicial.
-- Puerto local 8080 disponible.
+- Puerto local 8000 (o alternativamente el 8080) disponible.
 
 ## Ejecución local sin Docker
 
