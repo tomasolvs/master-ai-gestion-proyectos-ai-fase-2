@@ -82,6 +82,7 @@ Temperatura, vibración, presión, consumo energético, horas de operación, ór
 app/                 API, esquema, modelo y frontend
 tests/               pruebas de contrato y validación
 docs/                manual cloud e informe de pruebas
+evidence/            evidencia de notebook, construcción y ejecución de docker, y de creación de este repositorio
 Dockerfile           imagen reproducible
 requirements.txt     dependencias fijadas
 scripts_train.py     entrenamiento explícito
