@@ -75,7 +75,7 @@ Temperatura, vibración, presión, consumo energético, horas de operación, ór
 ```text
 app/                 API, esquema, modelo y frontend
 tests/               pruebas de contrato y validación
-docs/                manual cloud e informe de pruebas
+docs/                manual cloud e informe de pruebas [081126 TODDL Fase 2 Módulo 2 Gestión de proyectos de inteligencia artificial]([081126 TODDL Fase 2 Módulo 2 Gestión de proyectos de inteligencia artificial.pdf](https://github.com/tomasolvs/master-ai-gestion-proyectos-ai-fase-2/blob/main/docs/081126%20TODDL%20Fase%202%20M%C3%B3dulo%202%20Gesti%C3%B3n%20de%20proyectos%20de%20inteligencia%20artificial.pdf))
 Dockerfile           imagen reproducible
 requirements.txt     dependencias fijadas
 scripts_train.py     entrenamiento explícito
